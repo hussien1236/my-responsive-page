@@ -1,0 +1,17 @@
+.FormSection {
+    padding: 50px 20px;
+    background-color: #fff;
+    text-align: center;
+  }
+.form-container{
+    width:100%;
+    display: flex;
+    flex-direction: column;
+    gap:7px;
+    justify-content: center;
+}
+Button{
+    margin-top: 10px;
+    width:50%;
+    align-self: center;
+}
